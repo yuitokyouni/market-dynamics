@@ -1,3 +1,7 @@
+> ⚠️ **このリポは [financial-abm-lab](https://github.com/yuitokyouni/financial-abm-lab) に統合され、archive されました。** 履歴ごと `imported/market-dynamics/` に移管済み。新規作業はモノレポ側で行ってください。
+
+---
+
 # Market State Atlas
 
 Multi-asset market state → causal latent embedding → free-energy landscape
